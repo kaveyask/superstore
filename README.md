@@ -4,7 +4,7 @@
 The project aims to analyze Superstore sales data to understand sales performance, profit trends, customer behavior, and business growth opportunities.
 
 ## Tools Used
-- Python
+- Jupyter notebook for python
 - MySQL
 
 ## Steps Performed

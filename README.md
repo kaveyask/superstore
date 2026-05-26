@@ -6,7 +6,6 @@ The project aims to analyze Superstore sales data to understand sales performanc
 ## Tools Used
 - Python
 - MySQL
-- CSV Dataset
 
 ## Steps Performed
 1. Imported the CSV dataset into Python
